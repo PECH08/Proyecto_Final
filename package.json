@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_final",
+  "version": "1.0.0",
+  "description": "Proyecto Final Mañon y Macdalys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PECH08/Proyecto_Final.git"
+  },
+  "author": "Paulette Cruz Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PECH08/Proyecto_Final/issues"
+  },
+  "homepage": "https://github.com/PECH08/Proyecto_Final#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
